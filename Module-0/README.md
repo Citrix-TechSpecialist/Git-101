@@ -35,7 +35,7 @@ You need to now connect your GitHub account to SourceTree to be able to push and
 1. Login with your GitHub credentials.
 1. Click accept to authorize SourceTree (Atlassian) with GitHub.
 
-![connect sourcetree to github](./images/sourcetreeGitHubSetup.gif)
+![connect SourceTree to GitHub](./images/sourcetreeGitHubSetup.gif)
 
 [Continue on to Module 1](../Module-1)
 
@@ -46,4 +46,4 @@ You need to now connect your GitHub account to SourceTree to be able to push and
 1. [Module 2: Adding and Staging Changes](../Module-2)
 1. [Module 3: Committing and Sharing Changes (*Pushing*)](../Module-3)
 1. [Module 4: Branching, Merging, and Reverting](../Module-4)
-1. [Module 5: Cloning and Forking](../Module-5)
+1. [Module 5: Cloning, Forking and Pull Requests](../Module-5)
