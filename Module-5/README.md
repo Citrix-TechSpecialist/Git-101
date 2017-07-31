@@ -1,5 +1,25 @@
 # Git-101: An Introduction to Git using SourceTree
 
+## Module 5: Cloning and Forking
+
+In this module we will
+
+
+
+### Cloning
+
+In this tutorial we will use SourceTree to graphically
+
+1. Within SourceTree click on the Create button in the top menu.
+
+### Forking
+
+In this tutorial we will use SourceTree to graphically
+
+1. Within SourceTree click on the Create button in the top menu.
+
+`https://github.com/btannous/Git-101-Forking`
+
 ## Table of Contents
 
 1. [Module 0: Setup Git, SourceTree, and Github](./Module-0)
