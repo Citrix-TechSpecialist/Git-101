@@ -20,13 +20,13 @@ In this tutorial we will use SourceTree to graphically create a new repository w
 
 ![create repository](./images/createRepo.gif)
 
-[Continue on to Module 2](./Module-2)
+[Continue on to Module 2](../Module-2)
 
 ## Table of Contents
 
-1. [Module 0: Setup Git, SourceTree, and Github](./Module-0)
-1. [Module 1: Create a new Repository](./Module-1)
-1. [Module 2: Adding and Staging Changes](./Module-2)
-1. [Module 3: Committing and Sharing Changes (*Pushing*)](./Module-3)
-1. [Module 4: Branching, Merging, and Reverting](./Module-4)
-1. [Module 5: Cloning and Forking](./Module-5)
+1. [Module 0: Setup Git, SourceTree, and Github](../Module-0)
+1. [Module 1: Create a new Repository](../Module-1)
+1. [Module 2: Adding and Staging Changes](../Module-2)
+1. [Module 3: Committing and Sharing Changes (*Pushing*)](../Module-3)
+1. [Module 4: Branching, Merging, and Reverting](../Module-4)
+1. [Module 5: Cloning and Forking](../Module-5)
