@@ -45,7 +45,7 @@ Pull Requests allow you to contribute your changes in your fork of a repository 
 1. Click Create Pull Request.
 1. You can leave a comment (optional) and click Create Pull Request to submit your request.
 
-![pull request](./images/pullREquest.gif)
+![pull request](./images/pullRequest.gif)
 
 1. After the contributors to the base fork approve your pull request you will be able to see your changes applied.
 
